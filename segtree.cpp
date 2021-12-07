@@ -78,7 +78,7 @@ void Tree::display() {
     
 }
 
-void output_to_file() {
+void Tree::output_to_file() {
     
     
     
