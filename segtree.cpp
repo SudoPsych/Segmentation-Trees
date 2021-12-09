@@ -79,7 +79,16 @@ void Tree::display() {
 }
 
 void Tree::output_to_file() {
-    
-    
-    
+    ofstream output("output.txt");
+    output << "graph{\n";
+    for(int i = 0; i < tree_array.size(); i++){
+        for(int j = 1; j < 3; j++){
+            if(tree_array[2i + j] != -100 and tree_array[i] != -100 and 2i + j < tree_array.size()-1){
+                output << ""[" << i << "] " << tree_array[i] << "" -- "[" << 2i + j << "] " << tree_array[2i + j] << ""\n";
+                // "[index] x" -- "[index] y"
+            }
+        }
+    }
+    output << "}";
+    output.close();
 }
