@@ -14,6 +14,7 @@ The `Segment_Tree` class can be instantiated with an input array.
 ## Usage
 
 Program successfully compiles with
+
     $g++ -std=c++11 -o prog *.cpp
     $./main data1.txt
 
