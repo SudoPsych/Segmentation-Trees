@@ -24,6 +24,8 @@ Program successfully compiles with
 
 Any given or user created data text file can be compiled for testing
 
+3 data files are given for testing and more can be created for further testing
+
 An output file is generated that can be input into a dot visualizer
 Nodes are formatted as such
 \[index in array] value
