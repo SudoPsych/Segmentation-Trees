@@ -32,6 +32,8 @@ Output lines to terminal answer sum queries and validate alter requests
 
 ## Input File format
 
+(-100 is considered a null value in the segement tree array thus cannot be an input value)
+
 1st line: values for input array
 
 Consecutive Lines:
