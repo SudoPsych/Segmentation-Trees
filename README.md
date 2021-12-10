@@ -18,9 +18,9 @@ Program successfully compiles with
     $g++ -std=c++11 -o prog *.cpp
     $./main data1.txt
 
-Any given data text file can be compiled for testing
+Any given or user created data text file can be compiled for testing
 
-An output file is gerated that can be input into a dot visualizer
+An output file is generated that can be input into a dot visualizer
 Nodes are formatted as such
 \[index in array] value
 
