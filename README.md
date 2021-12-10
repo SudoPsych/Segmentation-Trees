@@ -20,7 +20,7 @@ The `Segment_Tree` class can be instantiated with an input array
 Program successfully compiles with
 
     $g++ -std=c++11 -o prog *.cpp
-    $./main data1.txt
+    $./main data_files/data1.txt
 
 Any given or user created data text file can be compiled for testing
 
