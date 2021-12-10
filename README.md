@@ -32,7 +32,7 @@ Output lines to terminal answer sum queries and validate alter requests
 
 ## Input File format
 
-(-100 is considered a null value in the segement tree array thus cannot be an input value)
+(-100 is considered a null value in the segement tree array thus cannot be a value in the input array)
 
 1st line: values for input array
 
