@@ -28,8 +28,9 @@ Output lines to terminal answer sum queries and validate alter requests.
 
 ## Input File format
 
-1st line: values for input array
-Consecutive Lines:
+#1st line: values for input array
+
+#Consecutive Lines:
 
 Sum Query:
 
