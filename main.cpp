@@ -42,5 +42,7 @@ int main(int argc, char **argv) {
         }
     }
     
-    Segment_Tree.display();
+    // Output completed tree to file
+    Segment_Tree.output_to_file();
+    
 }
