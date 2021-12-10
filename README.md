@@ -32,12 +32,19 @@ Output lines to terminal answer sum queries and validate alter requests.
 Consecutive Lines:
 
 Sum Query:
+
 First value: 0
+
 Second Value: Lower bound index of input array
+
 Third Value: Upper value indexd of input array
 
+
 Alter Request:
+
 First Value: 1
+
 Second Value: Index of value to be altered
+
 Third Value: Said Value
 
